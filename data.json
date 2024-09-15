@@ -1,0 +1,106 @@
+[
+    {
+      
+      "jobName": "react developer",
+      "companyName": "p-hero",
+      "education": "Diploma",
+      "masterSkill": "React, Javascript",
+      "salary": 50000,
+      "timeOfJob": "Full Time",
+      "overview": "good jobs frontend",
+      "createdAt": "2024-01-26T11:55:50.347Z",
+      "updatedAt": "2024-01-26T11:55:50.347Z",
+      "__v": 0
+    },
+    {
+      
+      "jobName": "backend-development",
+      "companyName": "p-hero",
+      "education": "Bsc",
+      "masterSkill": "node,express,mongoDB, Javascript",
+      "salary": 70000,
+      "timeOfJob": "Full Time",
+      "overview": "good jobs backend",
+      "createdAt": "2024-01-26T11:56:50.073Z",
+      "updatedAt": "2024-01-26T11:56:50.073Z",
+      "__v": 0
+    },
+    {
+      
+      "jobName": "PHP Developer",
+      "companyName": "p-hero",
+      "education": "Diploma",
+      "masterSkill": "PHP",
+      "salary": 60000,
+      "timeOfJob": "Full Time",
+      "overview": "Good PHP Job",
+      "createdAt": "2024-01-27T15:07:21.241Z",
+      "updatedAt": "2024-01-27T15:07:21.241Z",
+      "__v": 0
+    },
+    {
+      
+      "jobName": "Angular Developer",
+      "companyName": "p-hero",
+      "education": "Diploma",
+      "masterSkill": " Javascript",
+      "salary": 40000,
+      "timeOfJob": "Remote Job",
+      "overview": "good job ",
+      "createdAt": "2024-01-27T15:18:20.579Z",
+      "updatedAt": "2024-01-27T15:18:20.579Z",
+      "__v": 0
+    },
+    {
+      
+      "jobName": "redux expert",
+      "companyName": "p-hero",
+      "education": "Bsc",
+      "masterSkill": " Javascript",
+      "salary": 50000,
+      "timeOfJob": "Full Time",
+      "overview": "good expert need",
+      "createdAt": "2024-01-29T16:56:28.564Z",
+      "updatedAt": "2024-01-29T16:56:28.564Z",
+      "__v": 0
+    },
+    {
+      
+      "jobName": "Software Engineer",
+      "companyName": "Tech Innovators Inc.",
+      "education": "Bsc",
+      "masterSkill": "JavaScript",
+      "salary": 70000,
+      "timeOfJob": "Full Time",
+      "overview": "Responsible for developing and maintaining web applications using modern JavaScript frameworks and technologies.",
+      "createdAt": "2024-09-14T16:47:51.729Z",
+      "updatedAt": "2024-09-14T16:47:51.729Z",
+      "__v": 0
+    },
+    {
+      
+      "jobName": "MERN STACK",
+      "companyName": "Tech Innovators Inc.",
+      "education": "Bsc",
+      "masterSkill": "JavaScript,React,Nodejs,ExpressJs,MongoDB",
+      "salary": 70000,
+      "timeOfJob": "Full Time",
+      "overview": "Responsible for developing and maintaining web applications using modern JavaScript frameworks and technologies.",
+      "createdAt": "2024-09-14T16:49:18.093Z",
+      "updatedAt": "2024-09-14T16:49:18.093Z",
+      "__v": 0
+    },
+    {
+      
+      "jobName": "MERN STACK",
+      "companyName": "Tech Innovators Inc.",
+      "education": "Bsc",
+      "masterSkill": "JavaScript,React,Nodejs,ExpressJs,MongoDB",
+      "salary": 70000,
+      "timeOfJob": "Full Time",
+      "overview": "Responsible for developing and maintaining web applications using modern JavaScript frameworks and technologies.",
+      "createdAt": "2024-09-15T09:41:35.606Z",
+      "updatedAt": "2024-09-15T09:41:35.606Z",
+      "__v": 0
+    }
+  ]
